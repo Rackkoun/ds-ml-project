@@ -128,7 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
 # Mac Stuff
 .DS_Store
 
@@ -137,3 +136,9 @@ dmypy.json
 
 # Data 
 data/
+
+#Images
+images/v1
+
+#my notes
+notebooks/subha_rough_work/notes.md
